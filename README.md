@@ -1,45 +1,53 @@
-TNT is a decentralized autonomous organization (DAO) operating a club based on the Minecraft DREAM server.
+### TonOfCreeper – The People’s Meme DAO 项目简介
 
-Creator: nftx.ton: Most players come from the traditional internet, and the token plan was drafted in a white paper in 2023. After long-term testing on the Ethereum testnet, the in-game player token plan will be replaced by TNT within the TON ecosystem. However, as one of the founders of both communities, I expect to introduce domestic players to the Web 3.0 community by 2025, with strict screening for those initially interested in participating. The token creation date is March 21, 2024, with a total issuance of 368,440,830,249.39 TNT, and there will be no further issuance after the initial distribution. 90% is prepared to be added to the pool. As the project team, I have not made any purchases, sales, or profits. Due to the hype, additional investment was made. Some early investors made tens of times their initial investments without any insider information. I would like to clarify that adding liquidity to the pool was unintentional. For unknown individuals, I consider them lucky. As for large holders selling, I feel comfortable. Unfortunately, although we prepared the white paper and groundwork last year, the handling of adding liquidity this time was not ideal. These are not issues for us. The reason for creating the first market-cap pool was to allow people to create billion-dollar stories through marketization. Early profit-makers, even after selling their shares, can join as members. This is a long-term project. I believe the DAO organization resembles the concept of anonymity. After listing, there is a two-year lock-in period, during which we have conducted three rounds of token burns based on the total market cap at the time, destroying 4% of the total market cap three times. I forgot the exact amount, but it was likely not less than $5,000. TNT tokens are primarily empowered and applied through the following means:
+**项目名称**: TonOfCreeper – The People’s Meme DAO  
+**代币名称**: Creeper  
+**代币符号**: CREEP  
+**总供应量**: 3000亿 Creeper  
 
-- Players can use in-game resources to exchange for TNT within the server.
-- TNT holders will gain voting rights (equity).
-- Since mid-2023, long-term testing on the SepoliaETH testnet has been carried out to ensure players have no transaction costs.
-- Players on the server are gradually transitioning from Web 2 to Web 3, but this process won’t be too fast, providing us with good development space.
-- Promoting DAO autonomy and enhancing the mutual reinforcement between the Web 3 community and the Web 2 server community.
-- One year later, rewards will be distributed to players who contributed to the Minecraft server.
-- Adding meme community attributes and developing related ecosystems.
+TonOfCreeper 是一个起源于 Minecraft TonOfCreeper 服务器运营的去中心化自治组织 (DAO)。游戏社区是本项目的起源和分支，未来将会有更多基于此的创新与发展，核心理念是实现权益与 DAO 的无处不在。
 
-Website Index:
+**创建者**: tong.ton  
+大部分玩家来自传统互联网，代币计划于 2023 年以白皮书的形式起草。在以太坊测试网上进行长期测试后，游戏内玩家的代币计划将在 TON 生态内被 Creeper 取代。作为两个社区的创始人之一，我预计在 2025 年将国内玩家引入 Web 3.0 社区，并对最初有兴趣参与的人进行严格筛选。代币创建日期为 2024 年 3 月 21 日，初始分配后将不再进一步发行。90% 的代币准备加入流动性池。作为项目团队，我没有进行任何购买、销售或获利。由于市场炒作，部分早期投资者在未获得内幕信息的情况下，获得了数十倍于其初始投资的收益。值得说明的是，向流动性池中添加流动性并非故意。对于不知名的散户投资者，我认为他们很幸运；而对于大户的抛售行为，我感到放心。
 
-https://linktr.ee/tonoftnt
+虽然我们去年准备了白皮书和基础工作，但此次流动性池的增加处理并不理想。创建第一个市值池的初衷是希望通过市场化创造出百亿的故事。即使早期盈利者在卖出股份后，也可以继续成为我们的会员。这是一个长期项目，我认为 DAO 组织具有匿名性特点。上市后有两年的锁定期，期间我们根据总市值进行了三轮代币销毁，总共销毁了总市值的 4%。具体金额未记，但应不少于 5000 美元。
 
-Contract Address:
+**Creeper 代币赋能与应用**:
 
-EQDaRLKMc9aSIzB4vofQvSSyDBjUL6bDAX66FC_94_ojBsj3
+- 玩家可以使用游戏内资源在服务器内兑换 Creeper。
+- Creeper 持有者将获得投票权（股权）。
+- 自 2023 年中期以来，在 Sepolia ETH 测试网上进行了长期测试，确保玩家无交易成本。
+- 服务器上的玩家正在逐渐从 Web 2 过渡到 Web 3，这为我们提供了良好的发展空间。
+- 促进 DAO 自治，增强 Web 3 社区与 Web 2 服务器社区之间的相互促进。
+- 一年后，将向为 Minecraft 服务器做出贡献的玩家发放奖励。
+- 增加 meme 社区属性，发展相关生态系统。
 
-If you have any questions or suggestions, feel free to contact me through various channels.
+**网站索引**:  
+[https://linktr.ee/tonoftnt](https://linktr.ee/tonoftnt)  
 
----
+**合约地址**:  
+待定  
 
-Regarding the previous incident, I had to take certain measures due to various considerations. The content on Twitter will remain unchanged, but the information on the Telegram channel will be updated. Currently, I have provided most people with compensation either in US dollars or new equity tokens. I have taken these actions to promptly correct the mistakes we encountered and ensure more stable and long-term future development. If anyone was missed in the compensation process, please contact me via private message, and I will respond to everyone. I know that some people may be disappointed in me or even speak ill of me, but I am more concerned with resolving the issues promptly and prioritizing the community's long-term interests.
+如有任何问题或建议，欢迎通过各种渠道与我联系。
 
-As a nascent meme and DAO community, we started from scratch, and it's inevitable that we would encounter various issues and doubts. As far as I know, no one I personally know was involved in any of the transactions. For those who made tens of times their initial investment, I’m not even sure if I’ve ever spoken to them. Their selling actions did affect the price and exposed many issues. Throughout the process, I did not make any profit and have continuously reinvested. To this day, we still haven't fully utilized the previous advertising budget. I apologize for the problems caused and for my shortcomings. Now, we are starting from a new point and will move forward more cautiously.
+### 项目发展与透明性
 
-The previous liquidity pool was locked, but as the initiator, I could extract value from it when it matured. In the new token system, we plan to destroy all liquidity pools—this is all to ensure a more stable and sustainable future.
+关于之前的事件，我采取了一些措施来纠正我们遇到的错误，确保未来的稳定发展。推特上的内容将保持不变，但电报频道的信息将会更新。目前，我已向大多数人提供了美元或新的权益代币的补偿。如果在补偿过程中漏掉了任何人，请通过私信联系我。
 
-Our project has not shifted direction; we are simply addressing issues and hidden risks early on to ensure stable future development. We are currently correcting past mistakes and, once this crisis stabilizes, will steadily move forward, focusing on more efficient work. We need a lot of talented individuals to join us, and for that, we deeply apologize and hope you will give us some time. Rest assured that all issues will be resolved, and signs of recovery are already visible. As a community member, your opinions are crucial to us.
+作为一个新生的 meme 和 DAO 社区，我们不可避免地会遇到各种问题。对于获得高额回报的投资者，我无法确定是否与他们有过交流。他们的抛售行为确实影响了价格。在整个过程中，我没有赚到任何利润，并不断进行再投资。
 
-I have publicly stated my position regarding the shares I hold, and I am confident in resolving misunderstandings and traditional biases. I remain sincere, although some people may suffer losses due to the short-sighted actions of early investors and direct their anger at me. I once believed that attracting more members through low market cap and high surges was feasible, but I soon realized it was a mistake. I am grateful for this realization and have adjusted my approach based on the enthusiasm of the community. I will not rush to take action or rush to destroy liquidity. I hope not to let everyone down and will take full responsibility for everything.
+之前的流动性池是被锁定的，计划在新的代币系统中销毁所有流动性池，以确保项目的稳定和可持续性。我们正在纠正过去的错误，一旦危机稳定下来，将专注于更高效的工作。我们欢迎有才华的人加入我们的团队。
 
-As for the potential of the project, this is a long-term investment. If you are a short-term investor, please consider carefully. We have a clear understanding of the current status of the project. If you are willing to join our team, you don't even need to invest—just let us know your capabilities. We need strong investment, not compromise with speculators. I now understand that they may never fully trust the project team, but we have already identified the key issues.
+我已公开表明自己的立场，尽管早期投资者的短视行为可能导致误解。我明白低市值和高涨幅并不代表可持续发展，因此我们会根据社区反馈调整策略，专注于未来的稳定发展。
 
-Thank you to those who continue to support me. Now, I am no longer alone—it is all of us, as part of a team, a community, and an organization. As long as someone holds tokens, they represent this DAO. Next, I will thoroughly check and test the contract within 12 hours to ensure there are no issues in the future and no scalability problems. After that, I will begin to destroy liquidity, relinquish management authority, and organize our history. I am tired of compromising with speculators, and I will devote myself to truly productive work.
+### 项目潜力与社区发展
 
-As for community members, I generally do not intervene, as our community has game-like, meme, and equity DAO organizational characteristics.
+我们的项目是一项长期投资，如果您是短期投资者，请谨慎考虑。我们对项目的现状有清晰的了解。如果您愿意加入我们的团队，无需投资，只需告诉我们您的能力。我们需要强有力的支持，而不是向投机者妥协。
 
----
+感谢那些持续支持我们的人。每位代币持有者都代表这个 DAO。接下来，我将在 12 小时内检查和测试合约，确保未来不会出现问题，并开始销毁流动性，放弃管理权，整理我们的历史。我们专注于真正富有成效的工作。
 
-To new friends exploring our game or project, I would like to introduce some servers worth checking out. For example, Hypixel is one of the most famous Minecraft servers, known for its scale and variety; Mineplex is also a popular large server; EnderCraft focuses on survival mode; and 2b2t offers an anarchy-style gaming environment. These servers all represent traditional web2 models, but our goal is to create a web2.5 game ecosystem based on blockchain. Minecraft server games themselves are infinitely scalable and creative, but they are often centralized, meaning that as service providers, we can make changes at will. However, with the introduction of blockchain technology, every aspect of the game becomes transparent and valuable, with each element being unique, achieving true ownership—this is the essence of web3. If we fully pursue transferring game content to the blockchain, it might sacrifice the game's scalability and creativity. Therefore, our strategy is to mint and mine only a few very precious and rare in-game items through blockchain technology. Based on this transparent data, we can apply it to the server's functions and entertainment activities. Our starting point is the token system, which is crucial for open-world game players as it provides meaningful value exchange and reward systems. In this way, we retain the core features of the game while giving players new ownership and value experiences.
+对于社区成员，我不会过多干预，因为我们的社区具有游戏化、meme化和权益 DAO 的特征。
 
-Our project has had a clear whitepaper and development plan since 2023. Although I personally feel a bit overwhelmed at the moment, I still firmly believe in a step-by-step development strategy. Our team members are key to our success, and it will take time to select high-quality team members. Our goals are ambitious, and we plan to get listed on exchanges as soon as possible and use web3 funds to create a mutually beneficial positive cycle on traditional servers. I am no longer content with just talking about ideals. I will hand over the enthusiasm and market drive to the team members, and I will focus on other productive work. The community members will also have clearly defined roles and will work together to build. We will start from zero and move toward infinite possibilities, soaring to the stars together.
+对新朋友，我推荐一些值得关注的 Minecraft 服务器，如 Hypixel、Mineplex、EnderCraft 和 2b2t。这些服务器代表了传统的 Web 2 模型，而我们的目标是创建一个基于区块链的 Web 2.5 游戏生态系统。我们将通过区块链技术铸造珍贵的游戏内物品，实现真正的所有权，这正是 Web 3 的本质。
+
+我们的项目自2023年起便有了清晰的白皮书和发展规划。团队成员的选拔至关重要，时间将帮助我们找到高质量的成员。我们的目标是迅速上交易所，利用 Web 3 的资金创造互利的正向循环。社区成员将共同建设，携手迈向无限可能。
